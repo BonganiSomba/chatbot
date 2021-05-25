@@ -1,4 +1,4 @@
-# chatbot
+# chatbot using Deep Learning 
 This is a chatbot for takealot, which helps the user to track their items and also answer few question like delivery time. The project was build using Deep Learning Method.
 Also the tools used are Anaconda, Jupyter Notebook, Tensorflow, Keras. 
 Thank to data flair trainig  to provide with this tutorial, you can use this link to check the codes and more details about the project here(https://data-flair.training/blogs/python-chatbot-project/)
